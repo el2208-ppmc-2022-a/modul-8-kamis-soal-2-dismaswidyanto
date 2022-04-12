@@ -5,7 +5,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur1.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 1 ratu.\r\nSusunan akhir papan catur adalah:\r\nX X X X \r\nQ X X X \r\nX X X K \r\nX X X K ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 1 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur2.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 4 ratu.\r\nSusunan akhir papan catur adalah:\r\nX Q X X \r\nX X X Q \r\nQ X X X \r\nX X Q X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 4 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -25,7 +25,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur3.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 2 ratu.\r\nSusunan akhir papan catur adalah:\r\nK X X X X X \r\nX K X X X X \r\nX X K X X X \r\nX X X X X Q \r\nX X X X X X \r\nX X X X Q X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 2 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur4.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.\r\nSusunan akhir papan catur adalah:\r\nX X X X X X X K \r\nX X X X X X K X \r\nX X X X X K X X \r\nX X X X K X X X \r\nX X X K X X X X \r\nX X K X X X X X \r\nX K X X X X X X \r\nX X X X X X X X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur5.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 5 ratu.\r\nSusunan akhir papan catur adalah:\r\nQ X X X X \r\nX X Q X X \r\nX X X X Q \r\nX Q X X X \r\nX X X Q X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 5 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur6.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.\r\nSusunan akhir papan catur adalah:\r\nX X X \r\nX X X \r\nK X X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur7.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 2 ratu.\r\nSusunan akhir papan catur adalah:\r\nQ X X \r\nX X Q \r\nX X X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 2 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur8.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 4 ratu.\r\nSusunan akhir papan catur adalah:\r\nK X X X X X X X X \r\nX X X X X X Q X X \r\nX X X K X X X X X \r\nX X X X X X X Q X \r\nX X X X X X X X X \r\nX Q X X X X X X X \r\nX X X X X Q X X X \r\nX X X X X X X X K \r\nX X X X X X X X K ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 4 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur9.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 10 ratu.\r\nSusunan akhir papan catur adalah:\r\nQ X X X X X X X X X \r\nX X Q X X X X X X X \r\nX X X X X Q X X X X \r\nX X X X X X X Q X X \r\nX X X X X X X X X Q \r\nX X X X Q X X X X X \r\nX X X X X X X X Q X \r\nX Q X X X X X X X X \r\nX X X Q X X X X X X \r\nX X X X X X Q X X X ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 10 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "catur10.txt",
-      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.\r\nSusunan akhir papan catur adalah:\r\nK X X X K \r\nX X X X X \r\nX X X X X \r\nX X X X X \r\nK X X X K ",
+      "output": "Jumlah pion ratu terbanyak yang dapat diletakkan di papan catur adalah 0 ratu.",
       "comparison": "included",
       "timeout": 1,
       "points": 10
